@@ -12,3 +12,4 @@ The deployed site: https://naturallly.netlify.app/
 
 ## [Subscription tracker](https://github.com/hampussellden/subscription-tracker-app)
 This was our first look at making an app in react native. We also used supabase for DB and to handle authentication for users. 
+This project was also made in collabiration with the digital design class
